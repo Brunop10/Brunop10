@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Perussatto, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na UFSM.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
