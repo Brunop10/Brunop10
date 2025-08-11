@@ -1,7 +1,5 @@
 # 🧑🏻‍💻 Bruno Perussatto
 
-**`Desenvolvedor FullStack`**
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
